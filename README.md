@@ -1,2 +1,12 @@
-# react-fruit-market
-Fruit Market is a modern React shopping cart app for fruits, featuring a stylish UI with styled-components. Users can browse fruits, add them to the cart, adjust quantities, and view totals in Indian Rupees. The cart modal provides a seamless checkout experience.
+# React Vite Template 🚀
+
+This is a minimal React + Vite starter template for fast development.
+
+## 📦 Installation
+
+Clone the template using:
+
+```bash
+npx degit sujithmanc/react-vite-template my-new-project
+cd my-new-project
+```
